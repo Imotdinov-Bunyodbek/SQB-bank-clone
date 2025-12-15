@@ -12,7 +12,7 @@
 - 🔍 **Last Transfer & Transfer Verification**
 - 🌍 **Multi-Language Support** (Uzbek, English, Russian)
 
-> 📌 **Note**: To complete registration and perform money transfers, please activate the [@MobileBankNewSmsCodeBot](https://t.me/MobileBankNewSmsCodeBot) on Telegram. It is required to receive verification codes via SMS.  
+> 📌 **Note**: To complete registration and perform money transfers, please activate the [@MobileBankSmsBot](https://t.me/MobileBankSmsBot) on Telegram. It is required to receive verification codes via SMS.  
 📞 For support: **+998 95 008 40 48**
 
 ---
